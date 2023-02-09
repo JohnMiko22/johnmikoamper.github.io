@@ -33,3 +33,12 @@ body{
   .box p{
     text-align: justify;
   }
+  .singleCol-social-media-icon-white a {
+    color: white;
+    font-size: 2rem;
+  }
+  .singleCol {
+    max-width: 750;
+    margin: 0 auto;
+  }
+  
