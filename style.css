@@ -40,8 +40,8 @@ body{
   a{
     display: flex;
     background-color: #ddd;
-    height: 75;
-    width: 75;
+    height: 250;
+    width: 250;
     margin: 0 15px;
     border-radius: 8px;
     align-items: center;
