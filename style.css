@@ -34,7 +34,6 @@ body{
     text-align: justify;
   }
   .social-media {
-    display: flex;
     justify-content: center;
   }
   img {
