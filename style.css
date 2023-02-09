@@ -35,6 +35,8 @@ body{
   }
   .social-media {
     justify-content: center;
+    width: 10%;
+    height: 10px;
   }
   img {
     width: 10%;
