@@ -78,3 +78,39 @@ nav ul li a:hover{
   right: 8%;
   bottom: 0;
 }
+.social li a{
+  width: 90px;
+  height: 35px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #020412;
+  font-size: 25px;
+  color: var(--bg-color);
+  margin-right: 22px;
+  margin-bottom: 45px;
+}
+.social ul{
+  display: flex;
+  width: 100%;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 20px 0 10px;
+}
+.social ul li{
+  display: inline-block;
+  list-style: none;
+  margin: 1px 1px;
+}
+.social ul li a{
+  color: #fff;
+  text-decoration: none;
+  letter-spacing: -50px;
+  font-size: 17;
+}
+.social a:hover{
+  transform: scale(1.8);
+  background: var(--main-color);
+  transition: .5s;
+}
