@@ -109,8 +109,17 @@ nav ul li a:hover{
   letter-spacing: -50px;
   font-size: 17;
 }
-.social a:hover{
+.social ul li a:hover{
   transform: scale(1.8);
   background: var(--main-color);
   transition: .5s;
+}
+.social ul li:nth-child(1) a:hover {
+  color: #3b5999;
+}
+.social ul li:nth-child(2) a:hover {
+  color: #55acee;
+}
+.social ul li:nth-child(3) a:hover {
+  color: #e4405f;
 }
