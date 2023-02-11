@@ -72,11 +72,14 @@ nav ul li a:hover{
   font-weight: 600;
 }
 .user-img{
-  width: 650px;
+  width: 1000px;
   position: absolute;
   top: 20%;
-  right: 8%;
+  right: 3%;
   bottom: 0;
+}
+.user-img:hover{
+  left: 45%;
 }
 .social li a{
   width: 90px;
