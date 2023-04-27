@@ -4,6 +4,10 @@
   box-sizing: border-box;
   font-family: 'poppins', 'sans-serif';
   scroll-behavior: smooth;
+  background-image: url(moon.gif);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
 .header{
   color: #fff;
