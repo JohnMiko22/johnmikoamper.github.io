@@ -144,7 +144,6 @@ nav ul li a:hover{
   color: #e4405f;
 }
 .about-section{
-  padding: 3%;
   display: grid;
   grid-template-columns: repeat(2, 2fr);
   align-items: start;
@@ -210,10 +209,7 @@ nav ul li a:hover{
   color: #000;
   margin-left: 30px;
   font-weight: 600;
-}
-#portfolio{
-  padding: 10% 0;
-  background: #020412;
+
 }
 .services-list{
   display: grid;
