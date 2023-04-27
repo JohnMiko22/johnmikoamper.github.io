@@ -9,9 +9,6 @@
   width: 100%;
   height: 100vh;
   color: #fff;
-  background-image: url(moon.gif);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
   position: none;
 }
 nav{
